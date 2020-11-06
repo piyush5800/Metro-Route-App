@@ -1,15 +1,16 @@
-# Metro Route
+# Metro Route Application
+<img src="Flutter.png" width="100"> <br>
+This is the repository for a cross-platform app that allows the user to chart the shortest route from one metro station to another. <br><br>
+*Supports all the metro stations as on 30th September 2020, including rapid metro and airport metro.*
 
-An app to chart the shortest route from one metro station to other.
+## Screenshots
 
-The app uses Dijkstra's Algorithm to determine the shortest route, where shortest route represents the least number of stations.
+### Home Screen
+<center>
+<img src="HomeScreen.png" width="200">
+</center>
 
-# Screenshots
-
-## Home Screen
-<img src="/HomeScreen.png" width="360" height="780">
-
-## Home Screen
-<img src="/RouteScreen.png" width="360" height="780">
-
-Developed using Flutter.
+### Route Screen
+<center>
+<img src="RouteScreen.png" width="200">
+</center>
